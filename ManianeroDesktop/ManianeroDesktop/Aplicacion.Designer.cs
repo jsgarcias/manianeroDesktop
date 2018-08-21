@@ -50,6 +50,7 @@
             this.Controls.Add(this.webBrowser1);
             this.Name = "Aplicacion";
             this.Text = "El mañanero";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
 
         }
